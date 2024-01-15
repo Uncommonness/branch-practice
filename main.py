@@ -9,12 +9,14 @@ def get_luckies() -> list:
 
 fruits = [
         'apple',
-        'banana'
+        'banana',
+        'pineapple'
 ]
 
 foods = [
         'pasta',
-        'pizza'
+        'pizza',
+        'stew',
 ]
 
 if __name__=='__main__':
